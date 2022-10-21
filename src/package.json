@@ -1,0 +1,15 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "Src project on the Node JS",
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "Viktor Sazhyn",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
